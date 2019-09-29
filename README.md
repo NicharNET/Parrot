@@ -2,7 +2,8 @@
 
 <img align="left" height="113.176" width="126" top="50" src="https://image.ibb.co/csmCj9/parrot.png" border="0">
 
-# Parrot
-
+# parrot
 
 A basic set of styles applicable to raw HTML without classes.
+
+To be done...
